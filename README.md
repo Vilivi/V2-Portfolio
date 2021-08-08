@@ -2,5 +2,3 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Welcome!
 
-Open [https://florianbaumes.fr](https://florianbaumes.fr) with your browser to see the result : my portfolio !
-
